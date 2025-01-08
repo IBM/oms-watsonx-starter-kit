@@ -42,7 +42,7 @@ The steps to configure conversational search integration with AI Assistant can b
 
 
 ## Recommendations
-Comparitive analysis was done on Elser1, Elser2, PDF, MarkDown and Elastic Search Indexing using FSCrawler for injestion. 
+Comparative analysis was done on Elser1, Elser2, PDF, MarkDown and Elastic Search Indexing using FSCrawler for ingestion. 
 
 
 1. Elser2 is recommended over Elser1. 
